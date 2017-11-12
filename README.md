@@ -4,6 +4,6 @@ My very low-poly tutorial aimed at non-artists: Educators, Engineers, Entreprene
 ##Steps
 
 1. Download and install the latest version of [Blender](https://www.blender.org/)
-2. Read the article on Navigating in Blender.
+2. Download and read my article on [Navigating in Blender](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Blender-Navigation.odt).
 
-My chair is here if you need a reference.
+You can download my chair [here](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/FlorNickChair.blend) if you need a reference.
