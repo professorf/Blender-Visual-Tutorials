@@ -10,5 +10,5 @@ My very low-poly tutorial aimed at non-artists: Educators, Engineers, Entreprene
 
 ## 3D Model Downloads for Reference
 * [Chair](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/FlorNickChair.blend) if you need a reference.
-* [Manikin Head] (https://github.com/professorf/Blender-Visual-Tutorials/blob/master/FlorNickHead.blend)
+* [Manikin Head](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/FlorNickHead.blend)
 * [Manikin Body Coming Soon]
