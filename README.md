@@ -9,7 +9,10 @@ My very low-poly tutorial aimed at non-artists: Educators, Engineers, Entreprene
 4. Download and do the [Blender Manikin Head Tutorial](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Blender-Manikin-Head.odt)
 5. Download and do the [Blender Manikin Body Tutorial](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Blender-Manikin-Body.odt)
 6. Download and do the [Blender Manikin Connect Head to Body Tutorial](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Blender-Manikin-Connect-Head-Body.odt)
-
+7. Download and the latest version of Babylon.js [https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Downloading-BabylonJS.odt](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Downloading-BabylonJS.odt)
+8. Download and install the Blender to Babylon plug-in [https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Downloading-and-Installing-the-Babylon-Blender-Plug-In.odt](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Downloading-and-Installing-the-Babylon-Blender-Plug-In.odt)
+9. Convert your Blender model to Babylon.js format [https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Converting-Blender-To-Babylon.odt](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Converting-Blender-To-Babylon.odt)
+10. View your model in Babylon.js [https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Viewing-In-Babylon.odt](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/Viewing-In-Babylon.odt)
 
 ## 3D Model Downloads for Reference
 * [Chair](https://github.com/professorf/Blender-Visual-Tutorials/blob/master/FlorNickChair.blend)
